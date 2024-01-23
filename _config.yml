@@ -35,7 +35,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-header: /assets/images/DP26.jpg
+
+logo: "/assets/images/logo.png"
 
 defaults:
   # _posts
@@ -46,9 +47,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: true
       share: true
       related: true
+
+search: true
 
 
 # Exclude from processing.
