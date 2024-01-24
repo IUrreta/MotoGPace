@@ -71,7 +71,17 @@ author:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/ignacio-urretavizcaya-tato-2345a4259/"
 
-favicon: "favicon.png"
+footer:
+  links:
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/ignaciourreta_"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/IUrreta"
+  - label: "Linkedin"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/ignacio-urretavizcaya-tato-2345a4259/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
