@@ -54,6 +54,7 @@ defaults:
       related: true
 
 search: true
+google_analytics: G-9H4VG1S163
 
 author:
   name     : "Ignacio Urretavizcaya"
