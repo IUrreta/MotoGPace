@@ -8,15 +8,15 @@ header:
   caption: "Photo credit: **Getty Images**"
 feature_row:
   - image_path: assets/images/ducati.png
-    title: "Posts"
-    excerpt: "Here you can find my **latest** posts"
+    title: "Analyses"
+    excerpt: "Here you can find my **latest** analyses"
     url: "posts/"
     btn_label: "Activity"
     btn_class: "btn--primary"
   - image_path: assets/images/Pedrosa.png
     alt: "placeholder image 2"
     title: "About me"
-    excerpt: "Here you can get to know me a little more"
+    excerpt: "Get to know me a little more in-depth"
     url: "about/"
     btn_label: "Read More"
     btn_class: "btn--primary"

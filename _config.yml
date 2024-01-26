@@ -38,6 +38,8 @@ plugins:
 
 logo: "/assets/images/logo.png"
 
+breadcrumbs: true
+
 defaults:
   # _posts
   - scope:
