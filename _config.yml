@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-
 logo: "/assets/images/logo.png"
 
 defaults:
