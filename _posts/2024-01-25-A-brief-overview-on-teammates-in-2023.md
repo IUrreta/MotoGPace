@@ -3,7 +3,7 @@ layout: single
 title:  "A brief overview on teammates in 2023"
 date:   2024-01-25 15:40:50 +0100
 categories: motogp teammate comparison
-permalink: /posts/brief-overview-teammates-2023
+permalink: /analyses/brief-overview-teammates-2023
 ---
 
 As some teams have started presenting their new lineups for the 2024 season, I thought, what better time to compare some of the riders to their teammates last season to provide a bit of insight on how it **actually** went down for both of them during the 2023 campaign.

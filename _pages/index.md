@@ -10,7 +10,7 @@ feature_row:
   - image_path: assets/images/ducati.png
     title: "Analyses"
     excerpt: "Here you can find my **latest** analyses"
-    url: "posts/"
+    url: "analyses/"
     btn_label: "Activity"
     btn_class: "btn--primary"
   - image_path: assets/images/pedrosa.png
@@ -26,6 +26,7 @@ feature_row:
     url: "https://github.com/IUrreta/MotoGPace"
     btn_label: "Repository"
     btn_class: "btn--primary"
+permalink: /
 ---
 
 {% include feature_row %}

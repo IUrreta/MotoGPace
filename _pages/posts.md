@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Analyses"
-permalink: /posts/
+permalink: /analyses/
 classes: wide
 excerpt: "Here you will find all of my analyses that I have done in a post format"
 header:

@@ -6,6 +6,7 @@ classes: wide
 header:
   overlay_image: /assets/images/about.png
   overlay_filter: 0.5 
+
 ---
 
 # Who am I?
