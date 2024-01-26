@@ -8,4 +8,5 @@ header:
   overlay_image: /assets/images/DP26.jpg
   overlay_filter: 0.5 
   caption: "Photo credit: **Getty Images**"
+author_profile: true
 ---
