@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: assets/images/git.png
     title: "Like what you see?"
-    excerpt: "Please consider giving the Github repository a star!"
+    excerpt: "Consider giving the Github repository a star!"
     url: "https://github.com/IUrreta/MotoGPace"
     btn_label: "Repository"
     btn_class: "btn--primary"
