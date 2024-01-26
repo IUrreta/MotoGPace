@@ -2,6 +2,7 @@
 layout: single
 title:  "A brief overview on teammates in 2023"
 date:   2024-01-25 15:40:50 +0100
+excerpt: ""
 categories: motogp teammate comparison
 permalink: /analyses/brief-overview-teammates-2023
 ---
