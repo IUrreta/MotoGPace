@@ -13,7 +13,7 @@ feature_row:
     url: "posts/"
     btn_label: "Activity"
     btn_class: "btn--primary"
-  - image_path: assets/images/Pedrosa.png
+  - image_path: assets/images/pedrosa.png
     alt: "placeholder image 2"
     title: "About me"
     excerpt: "Get to know me a little more in-depth"
