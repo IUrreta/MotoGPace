@@ -5,6 +5,7 @@ date:   2024-01-25 15:40:50 +0100
 excerpt: ""
 categories: motogp teammate comparison
 permalink: /analyses/brief-overview-teammates-2023
+classes: wide
 ---
 
 As some teams have started presenting their new lineups for the 2024 season, I thought, what better time to compare some of the riders to their teammates last season to provide a bit of insight on how it **actually** went down for both of them during the 2023 campaign.
