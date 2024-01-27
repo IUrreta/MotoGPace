@@ -6,6 +6,8 @@ header:
   overlay_image: /assets/images/DP26.jpg
   overlay_filter: 0.5 
   caption: "Photo credit: **Getty Images**"
+intro: 
+  - excerpt: 'Welcome to my site where you’ll find my MotoGP data analyses. Each piece is crafted with great affection and passion, not just for the sport, but also for data and programming. Dive in and explore the exciting intersection of MotoGP and data science!'
 feature_row:
   - image_path: assets/images/ducati.png
     title: "Analyses"
@@ -28,5 +30,7 @@ feature_row:
     btn_class: "btn--primary"
 permalink: /
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
