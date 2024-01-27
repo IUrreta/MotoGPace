@@ -77,6 +77,8 @@ author:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/ignacio-urretavizcaya-tato-2345a4259/"
 
+include: ["_pages"]
+
 footer:
   links:
   - label: "Twitter"
