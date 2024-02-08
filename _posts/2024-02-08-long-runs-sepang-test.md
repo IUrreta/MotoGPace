@@ -21,7 +21,7 @@ As the MotoGP Sepang test comes to an end, I wanted to take a closer look at how
 Prior to the 3 day test at Sepang, the rookies and test riders (plus manufacturers with concessions) had another 3 days of testing in the Shakedown, and as things went well for Acosta there, he continued with the hard work at day 1 of the official test, putting together the 3 best long runs of the day as everyone was starting to get warmed up.
 
 {:refdef: style="text-align: center;"}
-![% day 1 long runs]({{site.baseurl}}/assets/images/2024test1.png){: .center-block }
+![% day 1 long runs]({{site.baseurl}}/assets/images/2024Test1.png){: .center-block }
 {: refdef}
 
 Being the first day of official testing results must be taken with a pinch of salt as pretty much every rider and team was checking if things were working as expected, and as so (and less rubber on track), long run pace was much slower than the following 2 days.
@@ -32,7 +32,7 @@ As it was the logical step, more people started to do more serious long runs (+7
 (**0.5 of standard deviation**). The Honda guys started showing some promising pace with actually good (and **consistent**) long runs given the amount of rubber on track and experience that they had on day 2.
 
 {:refdef: style="text-align: center;"}
-![% day 2 long runs]({{site.baseurl}}/assets/images/2024test2.png){: .center-block }
+![% day 2 long runs]({{site.baseurl}}/assets/images/2024Test2.png){: .center-block }
 {: refdef}
 
 World Champion Pecco Bagnaia finally put in a good stint together, while Michele Pirro stepping in the shoes of an injured Morbidelli also did some good work. It is remarkable also how close were the 3 Aprilias on the long stints, with a **quarter of a tenth** covering Oliveira, Viñales and Espargaró.
@@ -43,7 +43,7 @@ With the big day, day 3 of the Sepang Test, of course came the record-breaking f
 Following the VR46 rider came Viñales, Bastianini and Martin, all covered in **less than a tenth** (from 1'58.308 to 1'58.390)
 
 {:refdef: style="text-align: center;"}
-![% day 3 long runs]({{site.baseurl}}/assets/images/2024test3.png){: .center-block }
+![% day 3 long runs]({{site.baseurl}}/assets/images/2024Test3.png){: .center-block }
 {: refdef}
 
 The next best long run was achieved by Aleix Espargaro with a 1'58.499, and followed by him both Marquez brothers, Brad Binder, Pedro Acosta (!!) and Pecco Bagnaia all **within 1 tenth of a second**. Truly remarkable pre-season by the rookie Acosta whose long run was only **0.006 slower** on avergae than the firt KTM rider Brad Binder.
