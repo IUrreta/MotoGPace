@@ -3,7 +3,6 @@ layout: single
 title:  "How have the last 3 years of qualifying gone for MotoGP teams?"
 date:   2024-01-27 11:02:00 +0100
 categories: motogp qualifying comparison
-image: /analyses/quali-comparison-last-3-years-motogp
 excerpt: ""
 permalink: /analyses/quali-comparison-last-3-years-motogp
 header:
