@@ -2,7 +2,7 @@
 layout: single
 title:  "Qatar test day 2 analysis"
 date:   2024-02-21 11:02:00 +0100
-categories: motogp 2024 sepang test
+categories: motogp 2024 qatar test
 excerpt: ""
 permalink: /analyses/qatar-test-day-2-analysis
 header:
