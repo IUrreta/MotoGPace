@@ -17,5 +17,14 @@ We'd normalyy start by taking a look at what happened in Friday to see if it cou
 
 ## SATURDAY
 
+Starting with the Practice session held in Satrurday (which would determine the 10 riders that would go directly into Q2),
+
+**How to read:** Long runs are considered stints with **at least** 5 laps excluding the pit exit and pit entry laps. Also, during the stint, outliers are excluded, that's why some stints may be recorded with 4 or 3 laps, so those should be taken with a pinch of salt.
+{: .notice--info}
+
+{:refdef: style="text-align: center;"}
+![% day 1 long runs]({{site.baseurl}}/assets/images/2024Test1.png){: .center-block }
+{: refdef}
+
 ## SUNDAY
 
