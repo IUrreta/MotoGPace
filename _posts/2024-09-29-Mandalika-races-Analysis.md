@@ -19,7 +19,7 @@ The Indonesian Grand Prix at Mandalika once again delivered thrilling racing acr
 Yesterday's sprint race was marked by a costly mistake from Jorge Martín, continuing a pattern we've seen throughout the season where both he and Pecco Bagnaia push each other so hard that they sometimes struggle to keep the bike on track. Despite his crash, Martín’s pace during the initial laps (1-5) and again from laps 8-13 was nothing short of remarkable, as he made quick work of cutting through the field. His aggressive style and speed showed that, had it not been for the error, he could have been in serious contention for the top spot. All signs pointed to him being a strong contender in today’s long race.
 
 {:refdef: style="text-align: center;"}
-![Comparison in % of race pace]({{site.baseurl}}/assets/images/Indonesia_sprint_lap_chart.png){: .center-block }
+![Comparison in % of race pace]({{site.baseurl}}/assets/images/indonesia_sprint_lap_chart.png){: .center-block }
 {: refdef}
 
 Pecco Bagnaia, during his post-sprint interviews, mentioned that as soon as he saw Martín go down, he knew he needed to change his approach. He pushed hard in the first three sectors of each lap, while holding back a little in the final sector to avoid unnecessary risks. This was a clear response to the tricky track conditions, which had proven difficult for many riders. The data shows how this strategy played out, with Pecco deliberately losing time in sector 4. It was a masterclass in adaptation, but as he mentioned, such a strategy was unlikely to work in the longer race on Sunday, where the stakes and challenges were much greater.
