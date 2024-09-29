@@ -64,7 +64,7 @@ analytics:
 author:
   name     : "Ignacio Urretavizcaya"
   # avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Graduated in **Computer Engineering**, Master’s student in Big Data and **Advanced Analytics** at ICAI."
+  bio      : "Graduated in **Computer Engineering**, Master’s in Big Data and **Advanced Analytics** at ICAI."
   location : "Madrid, Spain"
   links:
   - label: "Twitter"

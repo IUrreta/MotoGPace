@@ -11,7 +11,7 @@ header:
 
 # Who am I?
 
-Hello! I'm Ignacio, a master's student who enjoys doing Data Analysis and who has a passion for MotoGP (and motorsport in general). I've always been fascinated by the world of motor racing and the insights that data can bring to it. In fact, I'm a bit of a nerd when it comes to data, enjoying loking and analyzing data for hours aboutn topics I'm interested in.
+Hello! I'm Ignacio, a master's graduate who enjoys doing Data Analysis and who has a passion for MotoGP (and motorsport in general). I've always been fascinated by the world of motor racing and the insights that data can bring to it. In fact, I'm a bit of a nerd when it comes to data, enjoying loking and analyzing data for hours aboutn topics I'm interested in.
 
 ## My Skills and Experience
 
