@@ -33,7 +33,7 @@ Pecco Bagnaia, during his post-sprint interviews, mentioned that as soon as he s
 In today’s long race, Martín’s performance was a model of consistency. Although he didn’t reach the explosive peaks in lap times that riders like Enea Bastianini or Pecco Bagnaia showed at certain points, his strength lay in maintaining a steady, solid pace. Crucially, Martín had an excellent start, which allowed him to get into clean air early on and avoid much of the chaos behind him.
 
 {:refdef: style="text-align: center;"}
-![Comparison in % of race pace]({{site.baseurl}}/assets/images/Indonesia_race_race_laps.png){: .center-block }
+![Comparison in % of race pace]({{site.baseurl}}/assets/images/indonesia_race_race_laps.png){: .center-block }
 {: refdef}
 
 This clean running helped him control the race from the front. In contrast, Bagnaia had a disastrous start, which significantly hampered his race as he found himself mired in the midfield, struggling to make progress early on.
